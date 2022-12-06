@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+body{
+    background-image: url(bacground-web.jpg);
+}
+.Header-Menu{
+    background-color:chocolate;
+}
+.Table-Menu{
+    width: 100%;
+    height: 50px;
+}
+.Logo-Menu{
+    padding-left: 80px;
+}
+.Logo-Menu a{
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
+.Td-Menu{
+    text-align: center;
+}
+.Td-Menu a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.Td-Menu a:hover{
+    color: aqua;
+}
+.div-home{
+    padding-top: 100px;
+    text-align: center;
+    margin: 50px;
+}
+.Desc-Content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: chocolate;
+}
+.Div-Image{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.Image{
+    border-radius: 10%;
+}
+.About-Image{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.Image-About{
+    border-radius: 40%;
+}
+.about1{
+    text-align: center;
+    padding-top: 20px;
+    background-color: brown;
+    color: brown;
+}
+.desc-About{
+    font-family: fantasy;
+    color:brown;
+    padding-bottom: 10px;
+}
+.profile{
+   text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    padding-top: 10px;
+    background-color:antiquewhite;
+}
+.desc-profile{
+    text-align: center;
+    font-family: fantasy;
+    color:brown;
+    padding-bottom: 10px;   
+}
+.contack_image{
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.pendidikan{
+    text-align: center;
+    margin-top: 300px;
+    color:brown;
+    background-color: brown;
+    border: 40%;
+}
+.desc-About{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
